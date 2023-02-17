@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrovoPedro
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning JavaScript and Php
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instram https://www.instagram.com/pedrotrovoo/?hl=pt-br
 
