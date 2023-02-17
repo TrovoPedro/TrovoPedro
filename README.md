@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TrovoPedro
+- 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instram https://www.instagram.com/pedrotrovoo/?hl=pt-br
 
 <!---
