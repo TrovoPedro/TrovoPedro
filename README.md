@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning Java
-- 📫 How to reach me instram https://www.instagram.com/pedrotrovoo/?hl=pt-br
+- 📫 How to reach me instagram https://www.instagram.com/pedrotrovoo/?hl=pt-br
 
 <!---
 TrovoPedro/TrovoPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
