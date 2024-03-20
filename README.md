@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning React, React Native, Java, Mysql and JavaScript
+- 🌱 I’m currently learning Java, Mysql and JavaScript
 - 📫 How to reach me instagram https://www.instagram.com/pedrotrovoo/?hl=pt-br
 
 <!---
