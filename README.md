@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Phyton, Kotlin and JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me instagram https://www.instagram.com/pedrotrovoo/?hl=pt-br
 
 <!---
